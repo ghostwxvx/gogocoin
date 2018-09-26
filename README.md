@@ -1,0 +1,2 @@
+# gogocoin
+gogocoin
